@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Anasayfa"
+        android:id="@+id/Anasayfa"
+        android:icon="@drawable/anasayfaicon"/>
+    <item android:title="Arama"
+        android:id="@+id/Arama"
+        android:icon="@drawable/aramaicon"/>
+    <item android:title="Hesap"
+        android:id="@+id/Hesap"
+        android:icon="@drawable/hesapicon"/>
+</menu>
